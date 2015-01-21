@@ -1,6 +1,6 @@
 {
   "name": "matcha-fallback",
-  "version": "0.4.1",
+  "version": "0.0.1",
   "main": [
     "dest/javascripts/matcha-fallback.min.js",
     "dest/stylesheets/matcha-fallback.min.css"],

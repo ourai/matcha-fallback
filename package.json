@@ -1,6 +1,6 @@
 {
   "name": "matcha-fallback",
-  "version": "0.4.1",
+  "version": "0.0.1",
   "description": "For Internet Explorer browsers which versions are lower than 9",
   "homepage": "https://github.com/matchaui/matcha-fallback",
   "keywords": [
